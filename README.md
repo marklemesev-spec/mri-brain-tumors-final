@@ -179,4 +179,4 @@ python main.py --no-demo20
 ## Авторы
 
 * [Марк Лемесев](https://github.com/marklemesev-spec);
-* [Артемий Карманов]
+* Артемий Карманов
